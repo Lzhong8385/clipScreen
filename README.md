@@ -1,5 +1,6 @@
 # test-project
 js简易截图工具（后续功能待开发）
+demo地址：http://tools.lzhong.wang/tools/screenshot
 详情可以看我文章
 https://blog.csdn.net/qq_34206004/article/details/108407807
 
